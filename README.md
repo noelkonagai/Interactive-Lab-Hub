@@ -1,6 +1,5 @@
 # Interactive-Lab-Hub
 
-Completed Labs for John Q. Student
+Completed Labs for Noel Konagai
 
-1. [John Q's Lab 1](//github.com/johnqstudent/idd-fa18-lab1)
-2. [John Q's Lab 2](//github.com/johnqstudent/idd-fa18-lab2)
+1. [Noel Konagai's Lab 1](https://github.com/noelkonagai/IDD-Fa18-Lab1/blob/master/README.md)
