@@ -1,4 +1,4 @@
-# Interactive-Lab-Hub
+# Interactive Device Design Lab Hub
 
 Completed Labs for Noel Konagai
 
