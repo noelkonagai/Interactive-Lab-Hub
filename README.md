@@ -10,4 +10,4 @@ Completed Pre-Labs for Noel Konagai
 
 1. Pre-Lab 1 - Not Required
 2. [Pre-lab 2](https://github.com/noelkonagai/interactive-devices/blob/master/Lab%202/Readme.md)
-3. [Pre-lab 3](https://github.com/noelkonagai/interactive-devices/blob/master/Lab%203/figures/Getting_Out_Of_Bed.png)
+3. [Pre-lab 3](https://github.com/noelkonagai/interactive-devices/blob/master/Lab%203/figures/Readme.md)
